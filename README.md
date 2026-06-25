@@ -23,6 +23,7 @@ leading to increased risks of hacking, identity theft and data breaches.
 ```bash
 python password_checker.py
 ```
+[password_checker.py](https://github.com/user-attachments/files/29334291/password_checker.py)
 
 ---
 
