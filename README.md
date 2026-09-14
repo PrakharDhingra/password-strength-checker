@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker
+# 🔐 Password Strength Checker and Generator
 
 ## 📌 About
 An AI-powered password strength checker and generator built with Python.
